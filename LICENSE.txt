@@ -1,0 +1,45 @@
+PupDesk Harness — Proprietary Software / Free Binary Use License
+Copyright (c) 2026 HJBCodeForge. All rights reserved.
+
+1. Ownership
+PupDesk Harness and its original source code are proprietary to HJBCodeForge.
+No open-source license is granted for HJBCodeForge's code. All rights not
+expressly granted below are reserved.
+
+2. Free use of official compiled releases
+HJBCodeForge grants you a non-exclusive, worldwide, royalty-free license to
+download, install, copy for backup, and run official, unmodified compiled
+PupDesk Harness releases for personal and internal business use. No purchase,
+subscription, or donation to HJBCodeForge is required for this permission.
+Third-party AI providers and services may charge their own fees.
+
+3. Restrictions
+This license does not grant permission to redistribute or sell the software,
+publish its source code, modify it, or create derivative works. Do not remove
+ownership notices or use HJBCodeForge branding to imply endorsement. Share
+the official download link instead of rehosting installers. Reverse
+engineering, decompilation, and disassembly are prohibited except to the
+extent applicable law or a third-party component license permits them.
+Separate written permission from HJBCodeForge is required for other uses.
+
+4. Third-party software
+Third-party components remain governed by their respective licenses and
+copyright notices. This license does not restrict rights granted under those
+licenses. Included third-party notices must be preserved.
+
+5. Optional support
+Voluntary contributions support development. They do not purchase source
+code rights, ownership, priority service, or a promise of future features.
+
+6. Disclaimer
+To the maximum extent permitted by applicable law, the software is provided
+"AS IS", without warranties of any kind, express or implied, including
+merchantability, fitness for a particular purpose, and non-infringement.
+HJBCodeForge is not liable for damages arising from use of the software.
+Nothing in these terms excludes rights or liability that cannot lawfully
+be excluded. You remain responsible for reviewing AI output and authorizing
+access to your files, tools, and external services.
+
+7. Existing rights
+These terms do not revoke rights previously granted under another valid
+license, including any earlier release lawfully distributed under that license.
