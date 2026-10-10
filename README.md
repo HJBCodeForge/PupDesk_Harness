@@ -19,7 +19,7 @@ Visit [Releases](https://github.com/HJBCodeForge/PupDesk_Harness/releases) and d
 - Platform: Windows, x64.
 - Run the installer and choose the installation folder and shortcut options.
 - Launch **PupDesk** from the Start menu or desktop shortcut.
-- Updates: PupDesk 1.29.1 and later check this page and offer each new version (**New version available: Update** in the top bar, or About → Check for updates). On an older version, close PupDesk and run the newer official installer.
+- Updates: PupDesk 1.29.1 and later check this page and offer each new version (**New version available: Update** in the top bar, or **Help → Check for updates**). On an older version, close PupDesk and run the newer official installer.
 - Uninstall through Windows Settings → Apps. Back up any data you want to keep.
 
 
@@ -52,7 +52,7 @@ Model downloads and API credits are not included. Local model speed and memory r
 | Chat and coding workspace | Keep conversations alongside project work, with Search chats (Ctrl+K) |
 | Projects | A page per project with its chats, instructions, files, memory and defaults |
 | Routines | Run a prompt on a schedule, once or on demand; each run opens as its own chat |
-| Kibble, your assistant | Direct it from the app or from Slack (messages, files, images and voice messages), connect Google Calendar, get reminders and daily briefings |
+| Kibble, your assistant | Direct it from the app or from Slack (messages, files, images and voice messages), connect Google Calendar (step-by-step setup guides for both), get reminders and daily briefings |
 | Built-in browser | Let chats and Kibble browse in PupDesk's own browser while you watch and take over |
 | Unsent messages kept | What you type stays in each chat's box until you send it, even after a restart |
 | Tool permissions and plan mode | Review proposed actions and control tool access |
