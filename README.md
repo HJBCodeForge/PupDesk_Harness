@@ -52,7 +52,7 @@ Model downloads and API credits are not included. Local model speed and memory r
 | Chat and coding workspace | Keep conversations alongside project work, with Search chats (Ctrl+K) |
 | Projects | A page per project with its chats, instructions, files, memory and defaults |
 | Routines | Run a prompt on a schedule, once or on demand; each run opens as its own chat |
-| Kibble, your assistant | Direct it from the app or from Slack, connect Google Calendar, get reminders and daily briefings |
+| Kibble, your assistant | Direct it from the app or from Slack (messages, files, images and voice messages), connect Google Calendar, get reminders and daily briefings |
 | Built-in browser | Let chats and Kibble browse in PupDesk's own browser while you watch and take over |
 | Unsent messages kept | What you type stays in each chat's box until you send it, even after a restart |
 | Tool permissions and plan mode | Review proposed actions and control tool access |
