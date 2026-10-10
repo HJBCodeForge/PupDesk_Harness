@@ -13,13 +13,13 @@ This repository hosts documentation, release downloads, and issue tracking. The 
 ## Download and install
 
 
-Visit [Releases](https://github.com/HJBCodeForge/PupDesk_Harness/releases) and download the `PupDesk-Setup-<version>.exe` asset from a published release. If no release is listed yet, the first public installer is still being prepared. GitHub source archives are not installers.
+Visit [Releases](https://github.com/HJBCodeForge/PupDesk_Harness/releases) and download the `PupDesk-Setup-<version>.exe` asset from the latest release. GitHub source archives are not installers.
 
 
 - Platform: Windows, x64.
 - Run the installer and choose the installation folder and shortcut options.
 - Launch **PupDesk** from the Start menu or desktop shortcut.
-- To update, close PupDesk and run the newer official installer.
+- Updates: PupDesk 1.29.1 and later check this page and offer each new version (**New version available: Update** in the top bar, or About → Check for updates). On an older version, close PupDesk and run the newer official installer.
 - Uninstall through Windows Settings → Apps. Back up any data you want to keep.
 
 
@@ -49,8 +49,12 @@ Model downloads and API credits are not included. Local model speed and memory r
 | Capability | Use it for |
 | --- | --- |
 | Local and cloud providers | Connect compatible model servers or API accounts |
-| Chat and coding workspace | Keep conversations alongside project work |
-| Projects and working folders | Organize tasks with relevant files and instructions |
+| Chat and coding workspace | Keep conversations alongside project work, with Search chats (Ctrl+K) |
+| Projects | A page per project with its chats, instructions, files, memory and defaults |
+| Routines | Run a prompt on a schedule, once or on demand; each run opens as its own chat |
+| Kibble, your assistant | Direct it from the app or from Slack, connect Google Calendar, get reminders and daily briefings |
+| Built-in browser | Let chats and Kibble browse in PupDesk's own browser while you watch and take over |
+| Unsent messages kept | What you type stays in each chat's box until you send it, even after a restart |
 | Tool permissions and plan mode | Review proposed actions and control tool access |
 | Model Context Protocol (MCP) | Connect additional tools and services |
 | Artifacts and documents | Work with generated content and previews |
